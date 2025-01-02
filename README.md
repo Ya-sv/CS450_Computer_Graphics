@@ -1,5 +1,6 @@
 # CS450_Computer_Graphics
-## Topics:
+## Topics: 
+####  [Course Resource page](https://web.engr.oregonstate.edu/~mjb/cs550/ "CS450 Computer Graphics")
 * Summary of the computer graphics process
 * Coordinate systems and the graphics pipeline
 * Drawing a 3D scene using OpenGL
