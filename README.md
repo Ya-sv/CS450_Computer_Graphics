@@ -21,6 +21,7 @@
 ## Projects:
 There are total 6 projects and plus one final project.
 ### Project1:
+[embed]/Projects/Project1_3DObject/Project #1.pdf[/embed]
 ### Project2:
 
 ### Project3:
