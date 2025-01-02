@@ -24,15 +24,13 @@ There are total 6 projects and plus one final project.
 [View Project 1 PDF](Projects/Project1_3DObject/Project%20%231.pdf)
 
 ### Project2:
-[View Project 2 PDF](Projects/Project2_Description/Project%20%232.pdf)
-
+[View Project 2 PDF](Projects/Project2_Transformation/Project%20%232.pdf)
 ### Project3:
-[View Project 3 PDF](Projects/Project3_Description/Project%20%233Lighting.pdf)
+[View Project 3 PDF](Projects/Project3_lightling/Project%20%233Lighting.pdf)
 ### Project4:
 [View Project 4 PDF](Projects/Project4_Description/Project%20%234.pdf) 
 ### Project5:
-[View Project 5 PDF](Projects/Project5_Description/Project%20%235.pdf)
+[View Project 5 PDF](Projects/Project5_Texture mapping/Project%20%235.pdf)
 ### Project6:
-[View Project 6 PDF](Projects/Project6_Description/Project%20%236.pdf)
+[View Project 6 PDF](Projects/Project6_Shaders/Project%20%236.pdf)
 ### Final project:
-[View Final Project PDF](Projects/FinalProject_Description/Final%20Project.pdf)
